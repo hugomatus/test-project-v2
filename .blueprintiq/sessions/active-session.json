@@ -1,0 +1,14 @@
+{
+  "session_id": "session-001",
+  "project_id": "",
+  "status": "active",
+  "started_at": "2025-07-16T09:31:38-07:00",
+  "user_id": "system",
+  "context": {
+    "project_phase": "initialization",
+    "current_focus": "project_setup",
+    "architectural_intent": "Three-tier web application with load balancer, API gateway, and database cluster"
+  },
+  "conversation_turns": [],
+  "last_activity": "2025-07-16T09:31:38-07:00"
+}
